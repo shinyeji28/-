@@ -1,0 +1,9 @@
+﻿  main2.cpp
+C:\Users\xntm1\source\repos\지뢰찾기게임\지뢰찾기게임\main2.cpp(83,12): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\xntm1\source\repos\지뢰찾기게임\지뢰찾기게임\main2.cpp(170,37): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\xntm1\source\repos\지뢰찾기게임\지뢰찾기게임\main2.cpp(170,24): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\xntm1\source\repos\지뢰찾기게임\지뢰찾기게임\main2.cpp(175,33): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\xntm1\source\repos\지뢰찾기게임\지뢰찾기게임\main2.cpp(175,21): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\xntm1\source\repos\지뢰찾기게임\지뢰찾기게임\main2.cpp(183,34): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\xntm1\source\repos\지뢰찾기게임\지뢰찾기게임\main2.cpp(183,21): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  지뢰찾기게임.vcxproj -> C:\Users\xntm1\source\repos\지뢰찾기게임\Debug\지뢰찾기게임.exe
